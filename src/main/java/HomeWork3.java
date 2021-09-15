@@ -167,8 +167,7 @@ public class HomeWork3 {
                 n = n + 1;
             }
         }
-        for (int i = 0; i < arr.length; i++) {
+        for (int i = 0; i < arr.length; i++)
             System.out.print(arr[i] + " ");
-        }
     }
 }
